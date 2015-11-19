@@ -1,0 +1,22 @@
+.saChart .title
+{
+	font-weight: bold;
+}
+
+.saChart .header
+{
+	position: relative;
+}
+
+.saChart .header .legend
+{
+	position: absolute;
+	bottom: 0;
+	right: 10px;
+}
+
+.saChart .header .legend table .legendLabel:not(:last-child)
+{
+	padding-right: 10px;
+}
+​

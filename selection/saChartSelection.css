@@ -1,0 +1,23 @@
+.saChartSelection .options
+{
+	position: relative;
+}
+
+.saChartSelection .options .reset
+{
+	position: absolute;
+	top: 18px;
+	right: 10px;
+	z-index: 1000;
+}
+
+.saChartSelection .selectionChart
+{
+	 width: 100%;
+	 height: 70px;
+}
+
+.saChartSelection .reset
+{
+	margin-left: 10px;
+}

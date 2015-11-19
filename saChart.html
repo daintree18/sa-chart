@@ -1,0 +1,11 @@
+<div class="saChart">
+	<div ng-show="isShowThermostat()" class="row">
+		<sa-chart-thermostat data="data"></sa-chart-thermostat>
+	</div>
+	<div ng-show="isShowTemperature()" class="row">
+		<sa-chart-temperature data="data"></sa-chart-temperature>
+	</div>
+	<div ng-show="isShowThermostat() || isShowTemperature()" class="row">
+		<sa-chart-selection></sa-chart-selection>
+	</div>
+</div>
