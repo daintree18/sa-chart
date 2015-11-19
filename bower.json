@@ -11,6 +11,9 @@
   	"thermostat/saChartThermostat.css"
   ],
   "ignore": [
-  ]
+  ],
+  "dependencies": {
+	"sa-flot": "daintree18/sa-flot"
+  }
 }
 
