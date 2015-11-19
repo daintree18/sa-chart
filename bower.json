@@ -1,6 +1,5 @@
 {
   "name": "sa-chart",
-<<<<<<< HEAD
   "main": [
   	"saChart.directive.js",
   	"saChart.directive.css",
@@ -13,14 +12,5 @@
   ],
   "ignore": [
   ]
-=======
-  "homepage": "https://github.com/daintree18/sa-chart",
-  "authors": [
-    "marcel morton <mmorton@daintree.net>"
-  ],
-  "description": "",
-  "main": "",
-  "moduleType": [],
-  "license": "MIT"
->>>>>>> 9041755cfdf848bd091c42c1b08136e1acf58ba1
 }
+
