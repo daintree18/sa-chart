@@ -1,19 +1,11 @@
 'use strict';
 
-<<<<<<< HEAD
 angular.module('saChart')
-=======
-angular.module('ngSaApp')
->>>>>>> 9041755cfdf848bd091c42c1b08136e1acf58ba1
   	.directive('saChartThermostat', function ($rootScope, zoneStatusApi, Attribute, $filter, $timeout)
   	{
   		var directive =
   		{
-<<<<<<< HEAD
   			templateUrl: 'bower_components/sa-chart/thermostat/saChartThermostat.html',
-=======
-  			templateUrl: 'components/saChart/thermostat/saChartThermostat.html',
->>>>>>> 9041755cfdf848bd091c42c1b08136e1acf58ba1
   			restrict: 'EA',
   			scope:
   			{

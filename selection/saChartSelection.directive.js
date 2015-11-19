@@ -1,19 +1,11 @@
 'use strict';
 
-<<<<<<< HEAD
 angular.module('saChart')
-=======
-angular.module('ngSaApp')
->>>>>>> 9041755cfdf848bd091c42c1b08136e1acf58ba1
   	.directive('saChartSelection', function ($rootScope, $filter)
   	{
   		var directive =
   		{
-<<<<<<< HEAD
   			templateUrl: 'bower_components/sa-chart/selection/saChartSelection.html',
-=======
-  			templateUrl: 'components/saChart/selection/saChartSelection.html',
->>>>>>> 9041755cfdf848bd091c42c1b08136e1acf58ba1
   			restrict: 'EA',
   			scope:
   			{
